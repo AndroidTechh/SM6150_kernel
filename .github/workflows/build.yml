@@ -1,4 +1,4 @@
-name: Aghisna OSS
+name: Ini kernel
 on:
   workflow_dispatch:
 
